@@ -19,4 +19,12 @@ purpose.
 - [Running a jupyter notebook from a remote server](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
 - [if you get ssl error when accessing from local](https://stackoverflow.com/questions/36387654/jupyter-on-ec2-ssl-error)
 
-## When creating new notebook, choose bash kernel
+#### When creating new notebook, choose bash kernel
+
+### Todo
+
+#### aq_cnt.ipynb
+- comprehensive `aq_cnt` example
+	* things that can only be done through `-g` option
+
+#### amazon product review??
