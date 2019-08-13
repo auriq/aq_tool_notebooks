@@ -1,0 +1,5 @@
+*
+!*.ipynb
+!*.md
+!.gitignore
+!data/
