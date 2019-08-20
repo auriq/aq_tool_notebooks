@@ -22,9 +22,11 @@ purpose.
 #### When creating new notebook, choose bash kernel
 
 ### Todo
+#### in & output Specs
 
 #### aq_cnt.ipynb
 - comprehensive `aq_cnt` example
 	* things that can only be done through `-g` option
+
 
 #### amazon product review??
