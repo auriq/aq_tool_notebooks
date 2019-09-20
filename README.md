@@ -23,6 +23,17 @@ purpose.
 
 ### Todo
 #### in & output Specs
+- input spec's basic is done
+- output spec is on it's way
+
+#### aq_pp
+- basic options
+- advanced options 
+
+#### aq_eod
+- basic 
+- advanced
+
 
 #### aq_cnt.ipynb
 - comprehensive `aq_cnt` example
