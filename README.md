@@ -24,7 +24,8 @@ purpose.
 ### Todo
 #### in & output Specs
 - input spec's basic is done
-- output spec is on it's way
+- OUTPUT SPEC
+	- add `esc` option
 
 #### aq_pp
 - basic options
