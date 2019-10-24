@@ -5,12 +5,12 @@ Collections of the jupyter notebooks for aq_tool examples, where users can learn
 ## Table of Contents
 ### aq_tools
 Options that are commonly used in all aq_tools.
-- [aq_input](aq_pp%20-eval.ipynb)
+- [aq_input](aq_input.ipynb)
 - [aq_outupt](aq_output.ipynb)
 [//]: # (- [aq_emod](aq_emod.ipynb) this is a comment) 
 
 ### aq_pp
-- [aq_pp -eval](aq_pp -eval.ipynb) - option for executing evaluation, such as arithmatic and more.
+- [aq_pp -eval](aq_pp%20-eval.ipynb) - option for executing evaluation, such as arithmatic and more.
 - [aq_pp -filt](aq_pp\ -filt.ipynb) - filtering / selection of record based on given condition.
 - [aq_pp -map](aq_pp\ -map.ipynb) - extracting, mapping and manipulation of string.
 	* also includes examples of `-mapf` and `-mapc`
