@@ -11,8 +11,8 @@ Options that are commonly used in all aq_tools.
 
 ### aq_pp
 - [aq_pp -eval](aq_pp%20-eval.ipynb) - option for executing evaluation, such as arithmatic and more.
-- [aq_pp -filt](aq_pp\ -filt.ipynb) - filtering / selection of record based on given condition.
-- [aq_pp -map](aq_pp\ -map.ipynb) - extracting, mapping and manipulation of string.
+- [aq_pp -filt](aq_pp%20-filt.ipynb) - filtering / selection of record based on given condition.
+- [aq_pp -map](aq_pp%20-map.ipynb) - extracting, mapping and manipulation of string.
 	* also includes examples of `-mapf` and `-mapc`
 - more on its way...
 
@@ -27,9 +27,9 @@ The following 2 notebooks go over input, column and output specs for aq_tools in
 2. [aq_output](aq_output.ipynb)
 
 Others go over what can be done with `aq_pp` command's options, from conditional control to string manipulation. Feel free to go over them in any order you'd like.
-- [aq_pp -eval](aq_pp\ -eval.ipynb)
-- [aq_pp -filt](aq_pp\ -filt.ipynb)
-- [aq_pp -map](aq_pp\ -map.ipynb)
+- [aq_pp -eval](aq_pp%20-eval.ipynb)
+- [aq_pp -filt](aq_pp%20-filt.ipynb)
+- [aq_pp -map](aq_pp%20-map.ipynb)
 
 
 For setup, follow [setup](setup.md)
