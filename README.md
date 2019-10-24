@@ -10,7 +10,7 @@ Options that are commonly used in all aq_tools.
 [//]: # (- [aq_emod](aq_emod.ipynb) this is a comment) 
 
 ### aq_pp
-- [aq_pp -eval](aq_pp\ -eval.ipynb) - option for executing evaluation, such as arithmatic and more.
+- [aq_pp -eval](aq_pp -eval.ipynb) - option for executing evaluation, such as arithmatic and more.
 - [aq_pp -filt](aq_pp\ -filt.ipynb) - filtering / selection of record based on given condition.
 - [aq_pp -map](aq_pp\ -map.ipynb) - extracting, mapping and manipulation of string.
 	* also includes examples of `-mapf` and `-mapc`
