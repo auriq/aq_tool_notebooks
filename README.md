@@ -9,13 +9,12 @@ Don't delete any files (even seemingly random text files), they might be used in
 ## Table of Contents
 ### aq_tools
 Options that are commonly used in all aq_tools.
-- [aq_input](aq_input.ipynb)
-- [aq_outupt](aq_output.ipynb)
-- [aq_emod](aq_emod.ipynb) - This is under construction
+- [aq-input](aq_input.ipynb)
+- [aq-outupt](aq_output.ipynb)
+- [aq-emod](aq-emod.ipynb): use this as a reference for various builtin funtions.
 
 ### aq_pp
 - [aq_pp -eval](aq_pp%20-eval.ipynb) - option for executing evaluation, such as arithmatic and more.
-	- this option still includes `aq-emod` samples. It is being transferred to an independent notebook right now.
 - [aq_pp -filt](aq_pp%20-filt.ipynb) - filtering / selection of record based on given condition.
 - [aq_pp -map](aq_pp%20-map.ipynb) - extracting, mapping and manipulation of string.
 	* also includes examples of `-mapf` and `-mapc`
