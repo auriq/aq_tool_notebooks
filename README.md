@@ -2,6 +2,10 @@
 
 Collections of the jupyter notebooks for aq_tool examples, where users can learn basic usage of aq_tools interactively.
 
+
+**Note**<br>
+Don't delete any files (even seemingly random text files), they might be used in the notebook.
+
 ## Table of Contents
 ### aq_tools
 Options that are commonly used in all aq_tools.
@@ -34,6 +38,7 @@ Others go over what can be done with `aq_pp` command's options, from conditional
 
 
 For setup, follow [setup](setup.md)
+
 ### Todo
 #### in & output Specs
 - input spec
