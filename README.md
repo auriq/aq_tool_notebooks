@@ -4,23 +4,25 @@ Collections of the jupyter notebooks for aq_tool examples, where users can learn
 
 
 **Note**<br>
-Don't delete any files (even seemingly random text files), they might be used in the notebook.
+* This notebook is based on AQ Tools version: 2.0.1-2
+* For setup, follow [setup](setup.md)
+* do not delete the text files, as they might be sample data file for notebooks
 
 ## Table of Contents
 ### aq_tools
 Options that are commonly used in all aq_tools.
-- [aq-input](aq_input.ipynb)
-- [aq-outupt](aq_output.ipynb)
+- [aq-input](aq_input.ipynb) - input specification for all of aq_tools
+- [aq-outupt](aq_output.ipynb) - output specification for all of aq_tools
 - [aq-emod](aq-emod.ipynb): use this as a reference for various builtin funtions.
 
-### aq_pp
+#### aq_pp
 - [aq_pp -eval](aq_pp%20-eval.ipynb) - option for executing evaluation, such as arithmatic and more.
 - [aq_pp -filt](aq_pp%20-filt.ipynb) - filtering / selection of record based on given condition.
 - [aq_pp -map](aq_pp%20-map.ipynb) - extracting, mapping and manipulation of string.
 	* also includes examples of `-mapf` and `-mapc`
 - more on its way...
 
-### [aq_cnt](aq_cnt.ipynb)
+#### [aq_cnt](aq_cnt.ipynb)
 This command helps users to find out more details about data stored in any given column, such as unique values, distribution of them, as well as column statistics.
 
 ## Recommended order for notebooks
@@ -36,4 +38,3 @@ Others go over what can be done with `aq_pp` command's options, from conditional
 - [aq_pp -map](aq_pp%20-map.ipynb)
 
 
-For setup, follow [setup](setup.md)
