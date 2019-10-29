@@ -27,6 +27,7 @@ Options that are commonly used in all aq_tools.
 
 #### [aq_cnt](aq_cnt.ipynb)
 This command helps users to find out more details about data stored in any given column, such as unique values, distribution of them, as well as column statistics.
+	* **Note:** data for this is too large to be viewd on github for now, need to perform stratified sampling to shrink or only view through ec2?
 
 ## Recommended order for notebooks
 Beginning users are encouraged to follow learning path to get familiarize yourself with basic syntax, as well as simple usage examples of each commands.
