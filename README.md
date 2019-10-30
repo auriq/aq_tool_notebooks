@@ -38,5 +38,5 @@ Others go over what can be done with `aq_pp` command's options, from conditional
 - [aq_pp -map](aq_pp%20-map.ipynb)
 
 ## Some DS Project using Essentia
-- [Amazon Product Reviews EDA with Essentia](project/amazon_review/Amazon%20Product%20Review%20Dataset%20Analysis.ipynb)
+- [Amazon Product Reviews EDA with Essentia](projects/amazon_review/Amazon%20Product%20Review%20Dataset%20Analysis.ipynb)
 
