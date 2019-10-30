@@ -14,7 +14,6 @@ Options that are commonly used in all aq_tools.
 - [aq-input](aq_input.ipynb) - input specification for all of aq_tools
 - [aq-outupt](aq_output.ipynb) - output specification for all of aq_tools
 - [aq-emod](aq-emod.ipynb): use this as a reference for various builtin funtions.
-	* **Note:** data for this is too large to be viewd on github for now, need to perform stratified sampling to shrink or only view through ec2?
 
 #### aq_pp
 - [aq_pp -eval](aq_pp%20-eval.ipynb) - option for executing evaluation, such as arithmatic and more.
