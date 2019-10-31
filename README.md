@@ -19,6 +19,7 @@ Options that are commonly used in all aq_tools.
 - [aq_pp -eval](aq_pp%20-eval.ipynb) - option for executing evaluation, such as arithmatic and more.
 - [aq_pp -filt](aq_pp%20-filt.ipynb) - filtering / selection of record based on given condition.
 - [aq_pp -map](aq_pp%20-map.ipynb) - extracting, mapping and manipulation of string.
+- [aq_pp -cmb](aq_pp%20-cmb.ipynb) - data lookup option, also can be used for joining datasets
 	* also includes examples of `-mapf` and `-mapc`
 - more on its way...
 
