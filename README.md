@@ -26,6 +26,9 @@ Options that are commonly used in all aq_tools.
 #### [aq_cnt](aq_cnt.ipynb)
 This command helps users to find out more details about data stored in any given column, such as unique values, distribution of them, as well as column statistics.
 
+### Tips and Techniques
+- [performing SQL joins with aq_tools]()
+
 ## Recommended order for notebooks
 Beginning users are encouraged to follow learning path to get familiarize yourself with basic syntax, as well as simple usage examples of each commands.
 
