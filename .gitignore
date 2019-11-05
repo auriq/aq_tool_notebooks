@@ -1,4 +1,9 @@
 *
+task.log
+setup.md
+start_nb.sh
+jupyter_pid.py
+todo.md
 !*.ipynb
 !*.md
 !.gitignore
