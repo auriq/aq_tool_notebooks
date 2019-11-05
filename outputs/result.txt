@@ -1,0 +1,10 @@
+reviewID^brand^variety^style^country^stars
+2580^New Touch^T's Restaurant Tantanmen ^Cup^Japan^3.75
+2579^Just Way^Noodles Spicy Hot Sesame Spicy Hot Sesame Guan-miao Noodles^Pack^Taiwan^1
+2578^Nissin^Cup Noodles Chicken Vegetable^Cup^USA^2.25
+2577^Wei Lih^GGE Ramen Snack Tomato Flavor^Pack^Taiwan^2.75
+2576^Ching's Secret^Singapore Curry^Pack^India^3.75
+2575^Samyang Foods^Kimchi song Song Ramen^Pack^South Korea^4.75
+2574^Acecook^Spice Deli Tantan Men With Cilantro^Cup^Japan^4
+2573^Ikeda Shoku^Nabeyaki Kitsune Udon^Tray^Japan^3.75
+2572^Ripe'n'Dry^Hokkaido Soy Sauce Ramen^Pack^Japan^0.25

@@ -1,0 +1,888 @@
+Survived,Sex,Name
+0,male,Mr. Owen Harris Braund
+1,female,Mrs. John Bradley (Florence Briggs Thayer) Cumings
+1,female,Miss. Laina Heikkinen
+1,female,Mrs. Jacques Heath (Lily May Peel) Futrelle
+0,male,Mr. William Henry Allen
+0,male,Mr. James Moran
+0,male,Mr. Timothy J McCarthy
+0,male,Master. Gosta Leonard Palsson
+1,female,Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson
+1,female,Mrs. Nicholas (Adele Achem) Nasser
+1,female,Miss. Marguerite Rut Sandstrom
+1,female,Miss. Elizabeth Bonnell
+0,male,Mr. William Henry Saundercock
+0,male,Mr. Anders Johan Andersson
+0,female,Miss. Hulda Amanda Adolfina Vestrom
+1,female,Mrs. (Mary D Kingcome) Hewlett
+0,male,Master. Eugene Rice
+1,male,Mr. Charles Eugene Williams
+0,female,Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke
+1,female,Mrs. Fatima Masselmani
+0,male,Mr. Joseph J Fynney
+1,male,Mr. Lawrence Beesley
+1,female,Miss. Anna McGowan
+1,male,Mr. William Thompson Sloper
+0,female,Miss. Torborg Danira Palsson
+1,female,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund
+0,male,Mr. Farred Chehab Emir
+0,male,Mr. Charles Alexander Fortune
+1,female,Miss. Ellen O'Dwyer
+0,male,Mr. Lalio Todoroff
+0,male,Don. Manuel E Uruchurtu
+1,female,Mrs. William Augustus (Marie Eugenie) Spencer
+1,female,Miss. Mary Agatha Glynn
+0,male,Mr. Edward H Wheadon
+0,male,Mr. Edgar Joseph Meyer
+0,male,Mr. Alexander Oskar Holverson
+1,male,Mr. Hanna Mamee
+0,male,Mr. Ernest Charles Cann
+0,female,Miss. Augusta Maria Vander Planke
+1,female,Miss. Jamila Nicola-Yarred
+0,female,Mrs. Johan (Johanna Persdotter Larsson) Ahlin
+0,female,Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin
+1,female,Miss. Simonne Marie Anne Andree Laroche
+1,female,Miss. Margaret Delia Devaney
+0,male,Mr. William John Rogers
+0,male,Mr. Denis Lennon
+1,female,Miss. Bridget O'Driscoll
+0,male,Mr. Youssef Samaan
+0,female,Mrs. Josef (Josefine Franchi) Arnold-Franchi
+0,male,Master. Juha Niilo Panula
+0,male,Mr. Richard Cater Nosworthy
+1,female,Mrs. Henry Sleeper (Myna Haxtun) Harper
+1,female,Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe
+0,male,Mr. Engelhart Cornelius Ostby
+1,male,Mr. Hugh Woolner
+1,female,Miss. Emily Rugg
+0,male,Mr. Mansouer Novel
+1,female,Miss. Constance Mirium West
+0,male,Master. William Frederick Goodwin
+0,male,Mr. Orsen Sirayanian
+1,female,Miss. Amelie Icard
+0,male,Mr. Henry Birkhardt Harris
+0,male,Master. Harald Skoog
+0,male,Mr. Albert A Stewart
+1,male,Master. Gerios Moubarek
+1,female,Mrs. (Elizabeth Ramell) Nye
+0,male,Mr. Ernest James Crease
+1,female,Miss. Erna Alexandra Andersson
+0,male,Mr. Vincenz Kink
+0,male,Mr. Stephen Curnow Jenkin
+0,female,Miss. Lillian Amy Goodwin
+0,male,Mr. Ambrose Jr Hood
+0,male,Mr. Apostolos Chronopoulos
+1,male,Mr. Lee Bing
+0,male,Mr. Sigurd Hansen Moen
+0,male,Mr. Ivan Staneff
+0,male,Mr. Rahamin Haim Moutal
+1,male,Master. Alden Gates Caldwell
+1,female,Miss. Elizabeth Dowdell
+0,male,Mr. Achille Waelens
+1,male,Mr. Jan Baptist Sheerlinck
+1,female,Miss. Brigdet Delia McDermott
+0,male,Mr. Francisco M Carrau
+1,female,Miss. Bertha Ilett
+1,female,Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom
+0,male,Mr. William Neal Ford
+0,male,Mr. Selman Francis Slocovski
+1,female,Miss. Mabel Helen Fortune
+0,male,Mr. Francesco Celotti
+0,male,Mr. Emil Christmann
+0,male,Mr. Paul Edvin Andreasson
+0,male,Mr. Herbert Fuller Chaffee
+0,male,Mr. Bertram Frank Dean
+0,male,Mr. Daniel Coxon
+0,male,Mr. Charles Joseph Shorney
+0,male,Mr. George B Goldschmidt
+1,male,Mr. William Bertram Greenfield
+1,female,Mrs. John T (Ada Julia Bone) Doling
+0,male,Mr. Sinai Kantor
+0,female,Miss. Matilda Petranec
+0,male,Mr. Pastcho Petroff
+0,male,Mr. Richard Frasar White
+0,male,Mr. Gustaf Joel Johansson
+0,male,Mr. Anders Vilhelm Gustafsson
+0,male,Mr. Stoytcho Mionoff
+1,female,Miss. Anna Kristine Salkjelsvik
+1,male,Mr. Albert Johan Moss
+0,male,Mr. Tido Rekic
+1,female,Miss. Bertha Moran
+0,male,Mr. Walter Chamberlain Porter
+0,female,Miss. Hileni Zabour
+0,male,Mr. David John Barton
+0,female,Miss. Katriina Jussila
+0,female,Miss. Malake Attalah
+0,male,Mr. Edvard Pekoniemi
+0,male,Mr. Patrick Connors
+0,male,Mr. William John Robert Turpin
+0,male,Mr. Quigg Edmond Baxter
+0,female,Miss. Ellis Anna Maria Andersson
+0,male,Mr. Stanley George Hickman
+0,male,Mr. Leonard Charles Moore
+0,male,Mr. Nicholas Nasser
+1,female,Miss. Susan Webber
+0,male,Mr. Percival Wayland White
+1,male,Master. Elias Nicola-Yarred
+0,male,Mr. Martin McMahon
+1,male,Mr. Fridtjof Arne Madsen
+1,female,Miss. Anna Peter
+0,male,Mr. Johan Ekstrom
+0,male,Mr. Jozef Drazenoic
+0,male,Mr. Domingos Fernandeo Coelho
+0,female,Mrs. Alexander A (Grace Charity Laury) Robins
+1,female,Mrs. Leopold (Mathilde Francoise Pede) Weisz
+0,male,Mr. Samuel James Hayden Sobey
+0,male,Mr. Emile Richard
+1,female,Miss. Helen Monypeny Newsom
+0,male,Mr. Jacques Heath Futrelle
+0,male,Mr. Olaf Elon Osen
+0,male,Mr. Victor Giglio
+0,female,Mrs. Joseph (Sultana) Boulos
+1,female,Miss. Anna Sofia Nysten
+1,female,Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen
+0,male,Mr. Jeremiah Burke
+0,male,Mr. Edgardo Samuel Andrew
+0,male,Mr. Joseph Charles Nicholls
+1,male,Mr. August Edvard Andersson
+0,female,Miss. Robina Maggie Ford
+0,male,Mr. Michel Navratil
+0,male,Rev. Thomas Roussel Davids Byles
+0,male,Rev. Robert James Bateman
+1,female,Mrs. Thomas (Edith Wearne) Pears
+0,male,Mr. Alfonzo Meo
+0,male,Mr. Austin Blyler van Billiard
+0,male,Mr. Ole Martin Olsen
+0,male,Mr. Charles Duane Williams
+1,female,Miss. Katherine Gilnagh
+0,male,Mr. Harry Corn
+0,male,Mr. Mile Smiljanic
+0,male,Master. Thomas Henry Sage
+0,male,Mr. John Hatfield Cribb
+1,female,Mrs. James (Elizabeth Inglis Milne) Watt
+0,male,Mr. John Viktor Bengtsson
+0,male,Mr. Jovo Calic
+0,male,Master. Eino Viljami Panula
+1,male,Master. Frank John William Goldsmith
+1,female,Mrs. (Edith Martha Bowerman) Chibnall
+0,female,Mrs. William (Anna Bernhardina Karlsson) Skoog
+0,male,Mr. John D Baumann
+0,male,Mr. Lee Ling
+0,male,Mr. Wyckoff Van der hoef
+0,male,Master. Arthur Rice
+1,female,Miss. Eleanor Ileen Johnson
+0,male,Mr. Antti Wilhelm Sivola
+0,male,Mr. James Clinch Smith
+0,male,Mr. Klas Albin Klasen
+0,male,Master. Henry Forbes Lefebre
+0,female,Miss. Ann Elizabeth Isham
+0,male,Mr. Reginald Hale
+0,male,Mr. Lionel Leonard
+0,female,Miss. Constance Gladys Sage
+0,male,Mr. Rene Pernot
+0,male,Master. Clarence Gustaf Hugo Asplund
+1,male,Master. Richard F Becker
+1,female,Miss. Luise Gretchen Kink-Heilmann
+0,male,Mr. Hugh Roscoe Rood
+1,female,Mrs. Thomas (Johanna Godfrey) O'Brien
+1,male,Mr. Charles Hallace Romaine
+0,male,Mr. John Bourke
+0,male,Mr. Stjepan Turcin
+1,female,Mrs. (Rosa) Pinsky
+0,male,Mr. William Carbines
+1,female,Miss. Carla Christine Nielsine Andersen-Jensen
+1,male,Master. Michel M Navratil
+1,female,Mrs. James Joseph (Margaret Tobin) Brown
+1,female,Miss. Elise Lurette
+0,male,Mr. Robert Mernagh
+0,male,Mr. Karl Siegwart Andreas Olsen
+1,female,Miss. Margaret Madigan
+0,female,Miss. Henriette Yrois
+0,male,Mr. Nestor Cyriel Vande Walle
+0,male,Mr. Frederick Sage
+0,male,Mr. Jakob Alfred Johanson
+0,male,Mr. Gerious Youseff
+1,male,Mr. Gurshon Cohen
+0,female,Miss. Telma Matilda Strom
+0,male,Mr. Karl Alfred Backstrom
+1,male,Mr. Nassef Cassem Albimona
+1,female,Miss. Helen Carr
+1,male,Mr. Henry Blank
+0,male,Mr. Ahmed Ali
+1,female,Miss. Clear Annie Cameron
+0,male,Mr. John Henry Perkin
+0,male,Mr. Hans Kristensen Givard
+0,male,Mr. Philip Kiernan
+1,female,Miss. Madeleine Newell
+1,female,Miss. Eliina Honkanen
+0,male,Mr. Sidney Samuel Jacobsohn
+1,female,Miss. Albina Bazzani
+0,male,Mr. Walter Harris
+1,male,Mr. Victor Francis Sunderland
+0,male,Mr. James H Bracken
+0,male,Mr. George Henry Green
+0,male,Mr. Christo Nenkoff
+1,male,Mr. Frederick Maxfield Hoyt
+0,male,Mr. Karl Ivar Sven Berglund
+1,male,Mr. William John Mellors
+0,male,Mr. John Hall Lovell
+0,male,Mr. Arne Jonas Fahlstrom
+0,female,Miss. Mathilde Lefebre
+1,female,Mrs. Henry Birkhardt (Irene Wallach) Harris
+0,male,Mr. Bengt Edvin Larsson
+0,male,Mr. Ernst Adolf Sjostedt
+1,female,Miss. Lillian Gertrud Asplund
+0,male,Mr. Robert William Norman Leyson
+0,female,Miss. Alice Phoebe Harknett
+0,male,Mr. Stephen Hold
+1,female,Miss. Marjorie Collyer
+0,male,Mr. Frederick William Pengelly
+0,male,Mr. George Henry Hunt
+0,female,Miss. Thamine Zabour
+1,female,Miss. Katherine Murphy
+0,male,Mr. Reginald Charles Coleridge
+0,male,Mr. Matti Alexanteri Maenpaa
+0,male,Mr. Sleiman Attalah
+0,male,Dr. William Edward Minahan
+0,female,Miss. Agda Thorilda Viktoria Lindahl
+1,female,Mrs. William (Anna) Hamalainen
+1,male,Mr. Richard Leonard Beckwith
+0,male,Rev. Ernest Courtenay Carter
+0,male,Mr. James George Reed
+0,female,Mrs. Wilhelm (Elna Matilda Persson) Strom
+0,male,Mr. William Thomas Stead
+0,male,Mr. William Arthur Lobb
+0,female,Mrs. Viktor (Helena Wilhelmina) Rosblom
+1,female,Mrs. Darwis (Hanne Youssef Razi) Touma
+1,female,Mrs. Gertrude Maybelle Thorne
+1,female,Miss. Gladys Cherry
+1,female,Miss. Anna Ward
+1,female,Mrs. (Lutie Davis) Parrish
+1,male,Master. Edvin Rojj Felix Asplund
+0,male,Mr. Emil Taussig
+0,male,Mr. William Harrison
+0,female,Miss. Delia Henry
+0,male,Mr. David Reeves
+0,male,Mr. Ernesti Arvid Panula
+1,male,Mr. Ernst Ulrik Persson
+1,female,Mrs. William Thompson (Edith Junkins) Graham
+1,female,Miss. Amelia Bissette
+0,male,Mr. Alexander Cairns
+1,male,Mr. William Henry Tornquist
+1,female,Mrs. (Elizabeth Anne Maidment) Mellinger
+0,male,Mr. Charles H Natsch
+1,female,Miss. Hanora Healy
+1,female,Miss. Kornelia Theodosia Andrews
+0,female,Miss. Augusta Charlotta Lindblom
+0,male,Mr. Francis Parkes
+0,male,Master. Eric Rice
+1,female,Mrs. Stanton (Rosa Hunt) Abbott
+0,male,Mr. Frank Duane
+0,male,Mr. Nils Johan Goransson Olsson
+0,male,Mr. Alfons de Pelsmaeker
+1,male,Mr. Edward Arthur Dorking
+0,male,Mr. Richard William Smith
+0,male,Mr. Ivan Stankovic
+1,male,Mr. Theodore de Mulder
+0,male,Mr. Penko Naidenoff
+1,male,Mr. Masabumi Hosono
+1,female,Miss. Kate Connolly
+1,female,Miss. Ellen Barber
+1,female,Mrs. Dickinson H (Helen Walton) Bishop
+0,male,Mr. Rene Jacques Levy
+0,female,Miss. Aloisia Haas
+0,male,Mr. Ivan Mineff
+0,male,Mr. Ervin G Lewy
+0,male,Mr. Mansour Hanna
+0,female,Miss. Helen Loraine Allison
+1,male,Mr. Adolphe Saalfeld
+1,female,Mrs. James (Helene DeLaudeniere Chaput) Baxter
+1,female,Miss. Anna Katherine Kelly
+1,male,Mr. Bernard McCoy
+0,male,Mr. William Cahoone Jr Johnson
+1,female,Miss. Nora A Keane
+0,male,Mr. Howard Hugh Williams
+1,male,Master. Hudson Trevor Allison
+1,female,Miss. Margaret Fleming
+1,female,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana
+0,male,Mr. Samuel Abelson
+1,female,Miss. Laura Mabel Francatelli
+1,female,Miss. Margaret Bechstein Hays
+1,female,Miss. Emily Borie Ryerson
+0,female,Mrs. William (Anna Sylfven) Lahtinen
+0,male,Mr. Ignjac Hendekovic
+0,male,Mr. Benjamin Hart
+1,female,Miss. Helmina Josefina Nilsson
+1,female,Mrs. Sinai (Miriam Sternin) Kantor
+0,male,Dr. Ernest Moraweck
+1,female,Miss. Mary Natalie Wick
+1,female,Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden
+0,male,Mr. Samuel Dennis
+0,male,Mr. Yoto Danoff
+1,female,Miss. Hilda Mary Slayter
+1,female,Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell
+0,male,Mr. George John Jr Sage
+1,female,Miss. Marie Grice Young
+0,male,Mr. Johan Hansen Nysveen
+1,female,Mrs. (Ada E Hall) Ball
+1,female,Mrs. Frank John (Emily Alice Brown) Goldsmith
+1,female,Miss. Jean Gertrude Hippach
+1,female,Miss. Agnes McCoy
+0,male,Mr. Austen Partner
+0,male,Mr. George Edward Graham
+0,male,Mr. Leo Edmondus Vander Planke
+1,female,Mrs. Henry William (Clara Heinsheimer) Frauenthal
+0,male,Mr. Mitto Denkoff
+0,male,Mr. Thomas Clinton Pears
+1,female,Miss. Elizabeth Margaret Burns
+1,male,Mr. Karl Edwart Dahl
+0,male,Mr. Stephen Weart Blackwell
+1,male,Master. Edmond Roger Navratil
+1,female,Miss. Alice Elizabeth Fortune
+0,male,Mr. Erik Gustaf Collander
+0,male,Mr. Charles Frederick Waddington Sedgwick
+0,male,Mr. Stanley Hubert Fox
+1,female,Miss. Amelia Brown
+1,female,Miss. Marion Elsie Smith
+1,female,Mrs. Thomas Henry (Mary E Finck) Davison
+1,male,Master. William Loch Coutts
+0,male,Mr. Jovan Dimic
+0,male,Mr. Nils Martin Odahl
+0,male,Mr. Fletcher Fellows Williams-Lambert
+0,male,Mr. Tannous Elias
+0,male,Mr. Josef Arnold-Franchi
+0,male,Mr. Wazli Yousif
+0,male,Mr. Leo Peter Vanden Steen
+1,female,Miss. Elsie Edith Bowerman
+0,female,Miss. Annie Clemmer Funk
+1,female,Miss. Mary McGovern
+1,female,Miss. Helen Mary Mockler
+0,male,Mr. Wilhelm Skoog
+0,male,Mr. Sebastiano del Carlo
+0,female,Mrs. (Catherine David) Barbara
+0,male,Mr. Adola Asim
+0,male,Mr. Thomas O'Brien
+0,male,Mr. Mauritz Nils Martin Adahl
+1,female,Mrs. Frank Manley (Anna Sophia Atkinson) Warren
+1,female,Mrs. (Mantoura Boulos) Moussa
+1,female,Miss. Annie Jermyn
+1,female,Mme. Leontine Pauline Aubart
+1,male,Mr. George Achilles Harder
+0,male,Mr. Jakob Alfred Wiklund
+0,male,Mr. William Thomas Beavan
+0,male,Mr. Sante Ringhini
+0,female,Miss. Stina Viola Palsson
+1,female,Mrs. Edgar Joseph (Leila Saks) Meyer
+1,female,Miss. Aurora Adelia Landergren
+0,male,Mr. Harry Elkins Widener
+0,male,Mr. Tannous Betros
+0,male,Mr. Karl Gideon Gustafsson
+1,female,Miss. Rosalie Bidois
+1,female,Miss. Maria Nakid
+0,male,Mr. Juho Tikkanen
+1,female,Mrs. Alexander Oskar (Mary Aline Towner) Holverson
+0,male,Mr. Vasil Plotcharsky
+0,male,Mr. Charles Henry Davies
+0,male,Master. Sidney Leonard Goodwin
+1,female,Miss. Kate Buss
+0,male,Mr. Matthew Sadlier
+1,female,Miss. Bertha Lehmann
+1,male,Mr. William Ernest Carter
+1,male,Mr. Carl Olof Jansson
+0,male,Mr. Johan Birger Gustafsson
+1,female,Miss. Marjorie Newell
+1,female,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom
+0,male,Mr. Erik Johansson
+0,female,Miss. Elina Olsson
+0,male,Mr. Peter David McKane
+0,male,Dr. Alfred Pain
+1,female,Mrs. William H (Jessie L) Trout
+1,male,Mr. Juha Niskanen
+0,male,Mr. John Adams
+0,female,Miss. Mari Aina Jussila
+0,male,Mr. Pekka Pietari Hakkarainen
+0,female,Miss. Marija Oreskovic
+0,male,Mr. Shadrach Gale
+0,male,Mr. Carl/Charles Peter Widegren
+1,male,Master. William Rowe Richards
+0,male,Mr. Hans Martin Monsen Birkeland
+0,female,Miss. Ida Lefebre
+0,male,Mr. Todor Sdycoff
+0,male,Mr. Henry Hart
+1,female,Miss. Daisy E Minahan
+0,male,Mr. Alfred Fleming Cunningham
+1,male,Mr. Johan Julian Sundman
+0,female,Mrs. Thomas (Annie Louise Rowley) Meek
+1,female,Mrs. James Vivian (Lulu Thorne Christian) Drew
+1,female,Miss. Lyyli Karoliina Silven
+0,male,Mr. William John Matthews
+0,female,Miss. Catharina Van Impe
+0,male,Mr. David Charters
+0,male,Mr. Leo Zimmerman
+0,female,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom
+0,male,Mr. Viktor Richard Rosblom
+0,male,Mr. Phillippe Wiseman
+1,female,Mrs. Charles V (Ada Maria Winfield) Clarke
+1,female,Miss. Kate Florence Phillips
+0,male,Mr. James Flynn
+1,male,Mr. Berk (Berk Trembisky) Pickard
+1,male,Mr. Mauritz Hakan Bjornstrom-Steffansson
+1,female,Mrs. Percival (Florence Kate White) Thorneycroft
+1,female,Mrs. Charles Alexander (Alice Adelaide Slow) Louch
+0,male,Mr. Nikolai Erland Kallio
+0,male,Mr. William Baird Silvey
+1,female,Miss. Lucile Polk Carter
+0,female,Miss. Doolina Margaret Ford
+1,female,Mrs. Sidney (Emily Hocking) Richards
+0,male,Mr. Mark Fortune
+0,male,Mr. Johan Henrik Johannesson Kvillner
+1,female,Mrs. Benjamin (Esther Ada Bloomfield) Hart
+0,male,Mr. Leon Hampe
+0,male,Mr. Johan Emil Petterson
+1,female,Ms. Encarnacion Reynaldo
+1,male,Mr. Bernt Johannesen-Bratthammer
+1,male,Master. Washington Dodge
+1,female,Miss. Madeleine Violet Mellinger
+1,male,Mr. Frederic Kimber Seward
+1,female,Miss. Marie Catherine Baclini
+1,male,Major. Arthur Godfrey Peuchen
+0,male,Mr. Edwy Arthur West
+0,male,Mr. Ingvald Olai Olsen Hagland
+0,male,Mr. Benjamin Laventall Foreman
+1,male,Mr. Samuel L Goldenberg
+0,male,Mr. Joseph Peduzzi
+1,male,Mr. Ivan Jalsevac
+0,male,Mr. Francis Davis Millet
+1,female,Mrs. Frederick R (Marion) Kenyon
+1,female,Miss. Ellen Toomey
+0,male,Mr. Maurice O'Connor
+1,male,Mr. Harry Anderson
+0,male,Mr. William Morley
+0,male,Mr. Arthur H Gee
+0,male,Mr. Jacob Christian Milling
+0,male,Mr. Simon Maisner
+0,male,Mr. Manuel Estanslas Goncalves
+0,male,Mr. William Campbell
+0,male,Mr. John Montgomery Smart
+0,male,Mr. James Scanlan
+1,female,Miss. Helene Barbara Baclini
+0,male,Mr. Arthur Keefe
+0,male,Mr. Luka Cacic
+1,female,Mrs. Edwy Arthur (Ada Mary Worth) West
+1,female,Mrs. Amin S (Marie Marthe Thuillard) Jerwan
+0,female,Miss. Ida Sofia Strandberg
+0,male,Mr. George Quincy Clifford
+0,male,Mr. Peter Henry Renouf
+0,male,Mr. Lewis Richard Braund
+0,male,Mr. Nils August Karlsson
+1,female,Miss. Hildur E Hirvonen
+0,male,Master. Harold Victor Goodwin
+0,male,Mr. Anthony Wood Frost
+0,male,Mr. Richard Henry Rouse
+1,female,Mrs. (Hedwig) Turkula
+1,male,Mr. Dickinson H Bishop
+0,female,Miss. Jeannie Lefebre
+1,female,Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt
+0,male,Mr. Edward Austin Kent
+0,male,Mr. Francis William Somerton
+1,male,Master. Eden Leslie Coutts
+0,male,Mr. Konrad Mathias Reiersen Hagland
+0,male,Mr. Einar Windelov
+0,male,Mr. Harry Markland Molson
+0,male,Mr. Ramon Artagaveytia
+0,male,Mr. Edward Roland Stanley
+0,male,Mr. Gerious Yousseff
+1,female,Miss. Elizabeth Mussey Eustis
+0,male,Mr. Frederick William Shellard
+0,female,Mrs. Hudson J C (Bessie Waldo Daniels) Allison
+0,male,Mr. Olof Svensson
+0,male,Mr. Petar Calic
+0,female,Miss. Mary Canavan
+0,female,Miss. Bridget Mary O'Sullivan
+0,female,Miss. Kristina Sofia Laitinen
+1,female,Miss. Roberta Maioni
+0,male,Mr. Victor de Satode Penasco y Castellana
+1,female,Mrs. Frederick Charles (Jane Richards) Quick
+1,male,Mr. George Bradley
+0,male,Mr. Henry Margido Olsen
+1,male,Mr. Fang Lang
+1,male,Mr. Eugene Patrick Daly
+0,male,Mr. James Webber
+1,male,Mr. James Robert McGough
+1,female,Mrs. Martin (Elizabeth L. Barrett) Rothschild
+0,male,Mr. Satio Coleff
+0,male,Mr. William Anderson Walker
+1,female,Mrs. (Amelia Milley) Lemore
+0,male,Mr. Patrick Ryan
+1,female,Mrs. William A (Florence Agnes Hughes) Angle
+0,male,Mr. Stefo Pavlovic
+1,female,Miss. Anne Perreault
+0,male,Mr. Janko Vovk
+0,male,Mr. Sarkis Lahoud
+1,female,Mrs. Louis Albert (Ida Sophia Fischer) Hippach
+0,male,Mr. Fared Kassem
+0,male,Mr. James Farrell
+1,female,Miss. Lucy Ridsdale
+0,male,Mr. John Farthing
+0,male,Mr. Johan Werner Salonen
+0,male,Mr. Richard George Hocking
+1,female,Miss. Phyllis May Quick
+0,male,Mr. Nakli Toufik
+0,male,Mr. Joseph Jr Elias
+1,female,Mrs. Catherine (Catherine Rizk) Peter
+0,female,Miss. Marija Cacic
+1,female,Miss. Eva Miriam Hart
+0,male,Major. Archibald Willingham Butt
+1,female,Miss. Bertha LeRoy
+0,male,Mr. Samuel Beard Risien
+1,female,Miss. Hedwig Margaritha Frolicher
+1,female,Miss. Harriet R Crosby
+0,female,Miss. Ingeborg Constanzia Andersson
+0,female,Miss. Sigrid Elisabeth Andersson
+1,male,Mr. Edward Beane
+0,male,Mr. Walter Donald Douglas
+0,male,Mr. Arthur Ernest Nicholson
+1,female,Mrs. Edward (Ethel Clarke) Beane
+1,male,Mr. Julian Padro y Manent
+0,male,Mr. Frank John Goldsmith
+1,male,Master. John Morgan Jr Davies
+1,male,Mr. John Borland Jr Thayer
+0,male,Mr. Percival James R Sharp
+0,male,Mr. Timothy O'Brien
+1,male,Mr. Fahim Leeni
+1,female,Miss. Velin Ohman
+0,male,Mr. George Wright
+1,female,Lady. (Lucille Christiana Sutherland)Duff Gordon
+0,male,Mr. Victor Robbins
+1,female,Mrs. Emil (Tillie Mandelbaum) Taussig
+1,female,Mrs. Guillaume Joseph (Emma) de Messemaeker
+0,male,Mr. Thomas Rowan Morrow
+0,male,Mr. Husein Sivic
+0,male,Mr. Robert Douglas Norman
+0,male,Mr. John Simmons
+0,female,Miss. (Marion Ogden) Meanwell
+0,male,Mr. Alfred J Davies
+0,male,Mr. Ilia Stoytcheff
+0,female,Mrs. Nils (Alma Cornelia Berglund) Palsson
+0,male,Mr. Tannous Doharr
+1,male,Mr. Carl Jonsson
+1,male,Mr. George Harris
+1,female,Mrs. Edward Dale (Charlotte Lamson) Appleton
+1,male,Mr. John Irwin Flynn
+1,female,Miss. Mary Kelly
+0,male,Mr. Alfred George John Rush
+0,male,Mr. George Patchett
+1,female,Miss. Ethel Garside
+1,female,Mrs. William Baird (Alice Munger) Silvey
+0,female,Mrs. Joseph (Maria Elias) Caram
+1,male,Mr. Eiriik Jussila
+1,female,Miss. Julie Rachel Christy
+1,female,Mrs. John Borland (Marian Longstreth Morris) Thayer
+0,male,Mr. William James Downton
+0,male,Mr. John Hugo Ross
+0,male,Mr. Uscher Paulner
+1,female,Miss. Ruth Taussig
+0,male,Mr. John Denzil Jarvis
+1,male,Mr. Maxmillian Frolicher-Stehli
+0,male,Mr. Eliezer Gilinski
+0,male,Mr. Joseph Murdlin
+0,male,Mr. Matti Rintamaki
+1,female,Mrs. Walter Bertram (Martha Eustis) Stephenson
+0,male,Mr. William James Elsbury
+0,female,Miss. Mary Bourke
+0,male,Mr. John Henry Chapman
+0,male,Mr. Jean Baptiste Van Impe
+1,female,Miss. Jessie Wills Leitch
+0,male,Mr. Alfred Johnson
+0,male,Mr. Hanna Boulos
+1,male,Sir. Cosmo Edmund Duff Gordon
+1,female,Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn
+0,male,Mr. Petco Slabenoff
+0,male,Mr. Charles H Harrington
+0,male,Mr. Ernst William Torber
+1,male,Mr. Harry Homer
+0,male,Mr. Edvard Bengtsson Lindell
+0,male,Mr. Milan Karaic
+1,male,Mr. Robert Williams Daniel
+1,female,Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche
+1,female,Miss. Elizabeth W Shutes
+0,female,Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson
+0,male,Mr. Jose Neto Jardin
+1,female,Miss. Margaret Jane Murphy
+0,male,Mr. John Horgan
+0,male,Mr. William Alfred Brocklebank
+1,female,Miss. Alice Herman
+0,male,Mr. Ernst Gilbert Danbom
+0,female,Mrs. William Arthur (Cordelia K Stanlick) Lobb
+1,female,Miss. Marion Louise Becker
+0,male,Mr. Lawrence Gavey
+0,male,Mr. Antoni Yasbeck
+1,male,Mr. Edwin Nelson Jr Kimball
+1,male,Mr. Sahid Nakid
+0,male,Mr. Henry Damsgaard Hansen
+0,male,Mr. David John Bowen
+0,male,Mr. Frederick Sutton
+0,male,Rev. Charles Leonard Kirkland
+1,female,Miss. Gretchen Fiske Longley
+0,male,Mr. Guentcho Bostandyeff
+0,male,Mr. Patrick D O'Connell
+1,male,Mr. Algernon Henry Wilson Barkworth
+0,male,Mr. Johan Svensson Lundahl
+1,male,Dr. Max Stahelin-Maeglin
+0,male,Mr. William Henry Marsh Parr
+0,female,Miss. Mabel Skoog
+1,female,Miss. Mary Davis
+0,male,Mr. Antti Gustaf Leinonen
+0,male,Mr. Harvey Collyer
+0,female,Mrs. Juha (Maria Emilia Ojala) Panula
+0,male,Mr. Percival Thorneycroft
+0,male,Mr. Hans Peder Jensen
+1,female,Mlle. Emma Sagesser
+0,female,Miss. Margit Elizabeth Skoog
+1,male,Mr. Choong Foo
+1,female,Miss. Eugenie Baclini
+1,male,Mr. Henry Sleeper Harper
+0,male,Mr. Liudevit Cor
+1,male,Col. Oberst Alfons Simonius-Blumer
+0,male,Mr. Edward Willey
+1,female,Miss. Amy Zillah Elsie Stanley
+0,male,Mr. Mito Mitkoff
+1,female,Miss. Elsie Doling
+0,male,Mr. Johannes Halvorsen Kalvik
+1,female,Miss. Hanora O'Leary
+0,female,Miss. Hanora Hegarty
+0,male,Mr. Leonard Mark Hickman
+0,male,Mr. Alexander Radeff
+0,female,Mrs. John (Catherine) Bourke
+0,male,Mr. George Floyd Eitemiller
+0,male,Mr. Arthur Webster Newell
+1,male,Dr. Henry William Frauenthal
+0,male,Mr. Mohamed Badt
+0,male,Mr. Edward Pomeroy Colley
+0,male,Mr. Peju Coleff
+1,male,Mr. Eino William Lindqvist
+0,male,Mr. Lewis Hickman
+0,male,Mr. Reginald Fenton Butler
+0,male,Mr. Knud Paust Rommetvedt
+0,male,Mr. Jacob Cook
+1,female,Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor
+1,female,Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown
+0,male,Mr. Thornton Davidson
+0,male,Mr. Henry Michael Mitchell
+1,male,Mr. Charles Wilhelms
+0,male,Mr. Ennis Hastings Watson
+0,male,Mr. Gustaf Hjalmar Edvardsson
+0,male,Mr. Frederick Charles Sawyer
+1,female,Miss. Anna Sofia Turja
+0,female,Mrs. Frederick (Augusta Tyler) Goodwin
+1,male,Mr. Thomas Drake Martinez Cardeza
+0,female,Miss. Katie Peters
+1,male,Mr. Hammad Hassab
+0,male,Mr. Thor Anderson Olsvigen
+0,male,Mr. Charles Edward Goodwin
+0,male,Mr. Thomas William Solomon Brown
+0,male,Mr. Joseph Philippe Lemercier Laroche
+0,male,Mr. Jaako Arnold Panula
+0,male,Mr. Branko Dakic
+0,male,Mr. Eberhard Thelander Fischer
+1,female,Miss. Georgette Alexandra Madill
+1,male,Mr. Albert Adrian Dick
+1,female,Miss. Manca Karun
+1,male,Mr. Ali Lam
+0,male,Mr. Khalil Saad
+0,male,Col. John Weir
+0,male,Mr. Charles Henry Chapman
+0,male,Mr. James Kelly
+1,female,Miss. Katherine Mullens
+0,male,Mr. John Borland Thayer
+0,male,Mr. Adolf Mathias Nicolai Olsen Humblen
+1,female,Mrs. John Jacob (Madeleine Talmadge Force) Astor
+1,male,Mr. Spencer Victor Silverthorne
+0,female,Miss. Saiide Barbara
+0,male,Mr. Martin Gallagher
+0,male,Mr. Henrik Juul Hansen
+0,male,Mr. Henry Samuel Morley
+1,female,Mrs. Florence Kelly
+1,male,Mr. Edward Pennington Calderhead
+1,female,Miss. Alice Cleaver
+1,male,Master. Halim Gonios Moubarek
+1,female,Mlle. Berthe Antonine Mayne
+0,male,Mr. Herman Klaber
+1,male,Mr. Elmer Zebley Taylor
+0,male,Mr. August Viktor Larsson
+0,male,Mr. Samuel Greenberg
+0,male,Mr. Peter Andreas Lauritz Andersen Soholt
+1,female,Miss. Caroline Louise Endres
+1,female,Miss. Edwina Celia Troutt
+0,male,Mr. Malkolm Joackim Johnson
+1,female,Miss. Annie Jessie Harper
+0,male,Mr. Svend Lauritz Jensen
+0,male,Mr. William Henry Gillespie
+0,male,Mr. Henry Price Hodges
+1,male,Mr. Norman Campbell Chambers
+0,male,Mr. Luka Oreskovic
+1,female,Mrs. Peter Henry (Lillian Jefferys) Renouf
+1,female,Miss. Margareth Mannion
+0,male,Mr. Kurt Arnold Gottfrid Bryhl
+0,female,Miss. Pieta Sofia Ilmakangas
+1,female,Miss. Elisabeth Walton Allen
+0,male,Mr. Houssein G N Hassan
+0,male,Mr. Robert J Knight
+0,male,Mr. William John Berriman
+0,male,Mr. Moses Aaron Troupiansky
+0,male,Mr. Leslie Williams
+0,female,Mrs. Edward (Margaret Ann Watson) Ford
+1,male,Mr. Gustave J Lesurer
+0,male,Mr. Kanio Ivanoff
+0,male,Mr. Minko Nankoff
+1,male,Mr. Walter James Hawksford
+0,male,Mr. Tyrell William Cavendish
+1,female,Miss. Susan Parker Ryerson
+0,male,Mr. Neal McNamee
+1,male,Mr. Juho Stranden
+0,male,Capt. Edward Gifford Crosby
+0,male,Mr. Rossmore Edward Abbott
+1,female,Miss. Anna Sinkkonen
+0,male,Mr. Daniel Warner Marvin
+0,male,Mr. Michael Connaghton
+1,female,Miss. Joan Wells
+1,male,Master. Meier Moor
+0,male,Mr. Johannes Joseph Vande Velde
+0,male,Mr. Lalio Jonkoff
+1,female,Mrs. Samuel (Jane Laver) Herman
+1,male,Master. Viljo Hamalainen
+0,male,Mr. August Sigfrid Carlsson
+0,male,Mr. Percy Andrew Bailey
+0,male,Mr. Thomas Leonard Theobald
+1,female,the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes
+0,male,Mr. John Garfirth
+0,male,Mr. Iisakki Antino Aijo Nirva
+1,male,Mr. Hanna Assi Barah
+1,female,Mrs. William Ernest (Lucile Polk) Carter
+0,male,Mr. Hans Linus Eklund
+1,female,Mrs. John C (Anna Andrews) Hogeboom
+0,male,Dr. Arthur Jackson Brewe
+0,female,Miss. Mary Mangan
+0,male,Mr. Daniel J Moran
+0,male,Mr. Daniel Danielsen Gronnestad
+0,male,Mr. Rene Aime Lievens
+0,male,Mr. Niels Peder Jensen
+0,female,Mrs. (Mary) Mack
+0,male,Mr. Dibo Elias
+1,female,Mrs. Elizabeth (Eliza Needs) Hocking
+0,male,Mr. Pehr Fabian Oliver Malkolm Myhrman
+0,male,Mr. Roger Tobin
+1,female,Miss. Virginia Ethel Emanuel
+0,male,Mr. Thomas J Kilgannon
+1,female,Mrs. Edward Scott (Elisabeth Walton McMillan) Robert
+1,female,Miss. Banoura Ayoub
+1,female,Mrs. Albert Adrian (Vera Gillespie) Dick
+0,male,Mr. Milton Clyde Long
+0,male,Mr. Andrew G Johnston
+0,male,Mr. William Ali
+0,male,Mr. Abraham (David Lishin) Harmer
+1,female,Miss. Anna Sofia Sjoblom
+0,male,Master. George Hugh Rice
+1,male,Master. Bertram Vere Dean
+0,male,Mr. Benjamin Guggenheim
+0,male,Mr. Andrew Keane
+0,male,Mr. Alfred Gaskell
+0,female,Miss. Stella Anna Sage
+0,male,Mr. William Fisher Hoyt
+0,male,Mr. Ristiu Dantcheff
+0,male,Mr. Richard Otter
+1,female,Dr. Alice (Farnham) Leader
+1,female,Mrs. Mara Osman
+0,male,Mr. Yousseff Ibrahim Shawah
+0,female,Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe
+0,male,Mr. Martin Ponesell
+1,female,Mrs. Harvey (Charlotte Annie Tate) Collyer
+1,male,Master. William Thornton II Carter
+1,male,Master. Assad Alexander Thomas
+1,male,Mr. Oskar Arvid Hedman
+0,male,Mr. Karl Johan Johansson
+0,male,Mr. Thomas Jr Andrews
+0,female,Miss. Ellen Natalia Pettersson
+0,male,Mr. August Meyer
+1,female,Mrs. Norman Campbell (Bertha Griggs) Chambers
+0,male,Mr. William Alexander
+0,male,Mr. James Lester
+0,male,Mr. Richard James Slemen
+0,female,Miss. Ebba Iris Alfrida Andersson
+0,male,Mr. Ernest Portage Tomlin
+0,male,Mr. Richard Fry
+0,female,Miss. Wendla Maria Heininen
+0,male,Mr. Albert Mallet
+0,male,Mr. John Fredrik Alexander Holm
+0,male,Master. Karl Thorsten Skoog
+1,female,Mrs. Charles Melville (Clara Jennings Gregg) Hays
+1,male,Mr. Nikola Lulic
+0,male,Jonkheer. John George Reuchlin
+1,female,Mrs. (Beila) Moor
+0,male,Master. Urho Abraham Panula
+0,male,Mr. John Flynn
+0,male,Mr. Len Lam
+1,male,Master. Andre Mallet
+1,male,Mr. Thomas Joseph McCormack
+1,female,Mrs. George Nelson (Martha Evelyn) Stone
+1,female,Mrs. Antoni (Selini Alexander) Yasbeck
+1,male,Master. George Sibley Richards
+0,male,Mr. Amin Saad
+0,male,Mr. Albert Augustsson
+0,male,Mr. Owen George Allum
+1,female,Miss. Sara Rebecca Compton
+0,male,Mr. Jakob Pasic
+0,male,Mr. Maurice Sirota
+1,male,Mr. Chang Chip
+1,male,Mr. Pierre Marechal
+0,male,Mr. Ilmari Rudolf Alhomaki
+0,male,Mr. Thomas Charles Mudd
+1,female,Miss. Augusta Serepeca
+0,male,Mr. Peter L Lemberopolous
+0,male,Mr. Jeso Culumovic
+0,male,Mr. Anthony Abbing
+0,male,Mr. Douglas Bullen Sage
+0,male,Mr. Marin Markoff
+0,male,Rev. John Harper
+1,female,Mrs. Samuel L (Edwiga Grabowska) Goldenberg
+0,male,Master. Sigvard Harald Elias Andersson
+0,male,Mr. Johan Svensson
+0,female,Miss. Nourelain Boulos
+1,female,Miss. Mary Conover Lines
+0,female,Mrs. Ernest Courtenay (Lilian Hughes) Carter
+1,female,Mrs. Sam (Leah Rosen) Aks
+1,female,Mrs. George Dennick (Mary Hitchcock) Wick
+1,male,Mr. Peter Denis Daly
+1,female,Mrs. Solomon (Latifa Qurban) Baclini
+0,male,Mr. Raihed Razi
+0,male,Mr. Claus Peter Hansen
+0,male,Mr. Frederick Edward Giles
+1,female,Mrs. Frederick Joel (Margaret Welles Barron) Swift
+0,female,Miss. Dorothy Edith Sage
+0,male,Mr. John William Gill
+1,female,Mrs. (Karolina) Bystrom
+1,female,Miss. Asuncion Duran y More
+0,male,Mr. Washington Augustus II Roebling
+0,male,Mr. Philemon van Melkebeke
+1,male,Master. Harold Theodor Johnson
+0,male,Mr. Cerin Balkic
+1,female,Mrs. Richard Leonard (Sallie Monypeny) Beckwith
+0,male,Mr. Frans Olof Carlsson
+0,male,Mr. Victor Vander Cruyssen
+1,female,Mrs. Samuel (Hannah Wizosky) Abelson
+1,female,Miss. Adele Kiamie Najib
+0,male,Mr. Alfred Ossian Gustafsson
+0,male,Mr. Nedelio Petroff
+0,male,Mr. Kristo Laleff
+1,female,Mrs. Thomas Jr (Lily Alexenia Wilson) Potter
+1,female,Mrs. William (Imanita Parrish Hall) Shelley
+0,male,Mr. Johann Markun
+0,female,Miss. Gerda Ulrika Dahlberg
+0,male,Mr. Frederick James Banfield
+0,male,Mr. Henry Jr Sutehall
+0,female,Mrs. William (Margaret Norton) Rice
+0,male,Rev. Juozas Montvila
+1,female,Miss. Margaret Edith Graham
+0,female,Miss. Catherine Helen Johnston
+1,male,Mr. Karl Howell Behr
+0,male,Mr. Patrick Dooley

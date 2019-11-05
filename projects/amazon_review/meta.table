@@ -1,0 +1,17 @@
+Column Name|Description|
+----------|----------|
+marketplace|2 letter country code of the marketplace where the review was written|
+customer_id|Random identifier that can be used to aggregate reviews written by a single author.|
+review_id|The unique ID of the review.
+product_id|The unique Product ID the review pertains to. In the multilingual dataset the reviews|
+product_parent|Random identifier that can be used to aggregate reviews for the same product.|
+product_title|title of the product|
+product_category|Broad product category that can be used to group reviews (also used to group the dataset Countinto coherent parts)|
+star_rating|The 1–5 star rating of the review.|
+helpful_votes|Number of helpful votes.|
+total_votes|Number of total votes the review received.|
+vine|Review was written as part of the Vine program|
+verified_purchase|the review is on a verified purchase|
+review_headline|The title of the review|
+review_body|the review text|
+review_date|The date the review was written.|

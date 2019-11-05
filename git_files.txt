@@ -1,0 +1,38 @@
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	data/
+	git_files.txt
+	projects/amazon_review/.conf/
+	projects/amazon_review/meta.table
+	projects/amazon_review/un_verified_review_stats.csv
+	projects/amazon_review/un_verified_reviews.csv
+	projects/amazon_review/verified_review_stats.csv
+	projects/amazon_review/verified_reviews.csv
+
+	#.conf/
+	#.ipynb_checkpoints/
+	#.tmp_file
+	#IsInf
+	#append.txt
+	#aws_review_sample.csv
+	#aws_reviews.csv
+	#compare/
+	#jupyter_pid.py
+	#projects/.ipynb_checkpoints/
+	#projects/amazon_review/.ipynb_checkpoints/
+	#projects/amazon_review/.tmp_file
+	#projects/amazon_review/review_status.csv
+	#projects/amazon_review/task.log
+	#key
+	#keyName
+	#month
+	#overwrite.txt
+	#result.csv
+	#result.json
+	#result.txt
+	#start_nb.sh
+	#test.log
+	#test_log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")

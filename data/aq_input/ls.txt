@@ -1,0 +1,11 @@
+total 3712
+-rw-r--r-- 1 ec2-user ec2-user 1033531 Sep  6 18:42 clean_cannabis_price.csv
+-rw-rw-r-- 1 ec2-user ec2-user     104 Sep  6 20:48 date_test.csv
+-rw-rw-r-- 1 ec2-user ec2-user       0 Sep  9 21:57 ls.txt
+-rw-rw-r-- 1 ec2-user ec2-user 1244636 Sep  6 18:32 marijuana-street-price-clean.csv
+-rw-r--r-- 1 ec2-user ec2-user  984147 Sep  6 20:59 origin_partial_cannabis_price.csv
+-rw-rw-r-- 1 ec2-user ec2-user    3908 Sep  6 21:36 partial_cannabis_price.csv
+-rw-r--r-- 1 ec2-user ec2-user    3908 Sep  9 19:58 partial_cannabis_price.plus
+-rw-r--r-- 1 ec2-user ec2-user    3908 Sep  9 19:49 partial_cannabis_price.tsv
+prw-rw-r-- 1 ec2-user ec2-user       0 Sep  9 21:55 pipy
+-rw-r--r-- 1 ec2-user ec2-user  513183 Sep  6 18:58 weed_table.csv

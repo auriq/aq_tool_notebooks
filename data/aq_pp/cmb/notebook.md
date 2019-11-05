@@ -1,0 +1,2 @@
+- `key` - Marks a column as being a join key. It must be a common column. This is the default for a common column.
+- `cmb` - Marks a column to be combined into the current data set. This is the default for a non-common column. It is typically used to mark a common column as not a join key.

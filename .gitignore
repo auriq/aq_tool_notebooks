@@ -1,12 +1,8 @@
-*
 task.log
 setup.md
-start_nb.sh
+*.sh
 jupyter_pid.py
 todo.md
-!*.ipynb
-!*.md
-!.gitignore
-!data/
-projects/*
-!projects/*.ipynb
+*.swp
+.tmp_file
+*.ipynb_checkpoints/

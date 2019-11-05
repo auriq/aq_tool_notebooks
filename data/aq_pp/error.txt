@@ -1,0 +1,3 @@
+ramen-ratings-original.csv: Bad field value: byte=2016+76 rec=33 field=stars
+ramen-ratings-original.csv: Bad field value: byte=7547+56 rec=122 field=stars
+ramen-ratings-original.csv: Bad field value: byte=65493+51 rec=992 field=stars
