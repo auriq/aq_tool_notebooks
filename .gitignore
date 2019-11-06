@@ -6,3 +6,4 @@ todo.md
 *.swp
 .tmp_file
 *.ipynb_checkpoints/
+aq_tool_notebooks/
