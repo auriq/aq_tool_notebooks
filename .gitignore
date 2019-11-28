@@ -13,4 +13,5 @@ setup.md
 todo.md
 requirements.txt
 .conf/*
+/**/.conf/**
 aq_udb_draft.ipynb
