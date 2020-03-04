@@ -15,3 +15,4 @@ requirements.txt
 .conf/*
 /**/.conf/**
 aq_udb_draft.ipynb
+aq_tool_notebooks/*
